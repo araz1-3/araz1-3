@@ -1,7 +1,7 @@
-![MasterHead](https://media.nature.com/lw800/magazine-assets/d41586-019-00653-5/d41586-019-00653-5_16459152.jpg)
+![MasterHead](https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=1060&t=st=1662825564~exp=1662826164~hmac=babf6941733994ce864662bc76a818860a99745dd13104cf5a5eecd44491901a)
 <h1 align="center">Hi 👋, I'm Alireza Mahmoodi</h1>
 <h3 align="center">A passionate Front-end developer, and Technology lover!</h3>
-<img align="right" width="400" alt="coding" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"
+<img align="right" width="380" alt="coding" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=araz1-3&label=Profile%20views&color=0e75b6&style=flat" alt="araz1-3" /> </p>
 
