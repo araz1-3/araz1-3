@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 All of my projects are available at https://github.com/araz1-3<br><br>💬 Ask me about HTML, CSS, JavaScript, React JS, Next JS<br><br>📫 How to reach me alirezamahmoodi192@gmail.com<br><br>⚡ Fun fact I love to listen musics and watch coding live streams
+👨‍💻 All of my projects are available at https://github.com/araz1-3<br><br>💬 Ask me about JavaScript, React JS, Next JS<br><br>📫 How to reach me alirezamahmoodi192@gmail.com<br><br>⚡ Fun fact I love to listen musics and watch coding live streams
 
 
 ## 🌐 Socials:
